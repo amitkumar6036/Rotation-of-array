@@ -1,0 +1,7 @@
+5 4       
+1 2 3 4 5
+
+5 is the size of arry
+4 is the value of n
+
+
