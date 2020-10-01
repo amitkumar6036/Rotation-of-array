@@ -1,2 +1,2 @@
-# Rotation-of-array
-Here is the code for rotatting an array for n no. of times.
+# Rotation-of-array 
+Here is the code for rotatting an array for n no. of times, and printing the rotated array
